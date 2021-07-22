@@ -18,6 +18,9 @@ b = lOO01
 a = 10O
 print(a+b)
 '''
+a = "测试"
+print(a)
+
 
 
 
