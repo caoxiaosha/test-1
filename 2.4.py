@@ -11,4 +11,5 @@ print(y)
 
 # 2.4.6 常量
 MAX_COUNT = 100
+MAX_NUMBER = 10000
 
